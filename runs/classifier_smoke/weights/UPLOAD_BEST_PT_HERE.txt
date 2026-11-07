@@ -1,0 +1,4 @@
+Required file: best.pt
+On your PC, copy from D:\RupeeLens_V2\runs\classifier_smoke\weights\best.pt
+Put it in this directory with the exact filename best.pt.
+This placeholder is NOT a model.
